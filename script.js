@@ -13,7 +13,6 @@ function addEmployee(){
     let empId = $('#empNum').val();
     let jobTitle = $('#empTitle').val();
     let annSalary = $('#empSalary').val();
-
     let newObject = {
         fName: firstName,
         lName: lastName,

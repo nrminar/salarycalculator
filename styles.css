@@ -3,7 +3,7 @@ body{
     max-width: 760px;
 }
 header{
-    background-color:lightcoral;
+    background-color:lightblue;
 }
 th{
     border: 2px solid black;
@@ -29,4 +29,9 @@ h3{
 }
 #submitBtn{
     float:right;
+}
+h1{
+    margin:auto;
+    text-align:center;
+    color:darkorange;
 }

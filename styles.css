@@ -1,0 +1,21 @@
+header{
+    background-color:lightcoral;
+}
+th{
+    border: 2px solid black;
+    width: 100px;
+}
+td{
+    width: 100px;
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+h3{
+    text-align:justify right;
+    width: 200px;
+}
+.red{
+    background-color:red;
+}
